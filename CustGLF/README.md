@@ -4,4 +4,4 @@
 ##Date:		2/7/2018
 ##Author:		Geoff Fox
 ******************************
-Tasks:
+Tasks: Configure Folder structure CustGLF/CustGLF and save to GitHub.com
