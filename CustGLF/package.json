@@ -37,7 +37,7 @@
     "json-loader": "^0.5.4",
     "preboot": "^4.5.2",
     "raw-loader": "^0.5.1",
-    "rxjs": "^5.0.1",
+    "rxjs": "^5.0.3",
     "style-loader": "^0.13.1",
     "to-string-loader": "^1.1.5",
     "typescript": "^2.0.3",
@@ -45,9 +45,16 @@
     "webpack": "^2.2.0",
     "webpack-hot-middleware": "^2.12.2",
     "webpack-merge": "^0.14.1",
-    "zone.js": "^0.7.6"
+    "zone.js": "^0.6.26"
   },
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^3.0.0",
+    "run-sequence": "^2.2.0",
+    "del": "^3.0.0",
+    "del-cli": "^1.1.0",
     "@types/chai": "^3.4.34",
     "@types/jasmine": "^2.5.37",
     "chai": "^3.5.0",
